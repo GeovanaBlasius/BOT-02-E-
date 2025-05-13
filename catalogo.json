@@ -1,0 +1,218 @@
+{
+  "LINHA DESENGRAXANTES": {
+    "DESENGRAXANTES BASE ÁGUA": [
+      {
+        "nome": "ARCLEANING - A",
+        "descricao": "Desengraxante a base d'água, com PH ácido."
+      },
+      {
+        "nome": "ARCLEANING - B",
+        "descricao": "Desengraxante a base d'água, com PH alcalino."
+      },
+      {
+        "nome": "ARCLEANING - N",
+        "descricao": "Desengraxante a base d'água, com PH neutro."
+      },
+      {
+        "nome": "ARCLEANING - P",
+        "descricao": "Desengraxante a base d'água, com opção protetiva."
+      }
+    ],
+    "DESENGRAXANTES BASE SOLVENTE": [
+      {
+        "nome": "ARSOLVº",
+        "descricao": "Desengraxante insolúvel em água, à base de solventes isoparafínicos, hidrogenados ou oxigenados."
+      },
+      {
+        "nome": "ARSOLVºEM",
+        "descricao": "Desengraxante emulsionável em água, à base de solventes isoparafínicos, hidrogenados ou oxigenados."
+      }
+    ]
+  },
+  "LINHA METAL WORKING": {
+    "ÓLEOS DE CORTE INTEGRAL": [
+      {
+        "nome": "ARCUTºEE",
+        "descricao": "Fluído de eletroerosão."
+      },
+      {
+        "nome": "ARCUTºM",
+        "descricao": "Fluído de corte integral."
+      },
+      {
+        "nome": "ARCUTºVG",
+        "descricao": "Fluido de corte integral, tipo biodegradável."
+      }
+    ],
+    "ÓLEOS PROTETIVOS": [
+      {
+        "nome": "ARPROTºDW",
+        "descricao": "Protetivo desaguante."
+      },
+      {
+        "nome": "ARPROTºE",
+        "descricao": "Protetivo aquoso."
+      },
+      {
+        "nome": "ARPROTºWAX",
+        "descricao": "Protetivo ceroso."
+      },
+      {
+        "nome": "ARPROTºW",
+        "descricao": "Protetivo sintético aquoso."
+      },
+      {
+        "nome": "ARPROTºVG",
+        "descricao": "Protetivo de filme vegetal."
+      }
+    ],
+    "ÓLEOS DE CORTE SOLÚVEL": [
+      {
+        "nome": "ARCOOL MS",
+        "descricao": "Óleo de corte mineral, solúvel."
+      },
+      {
+        "nome": "ARCOOL SP",
+        "descricao": "Fluído solúvel sintético, tipo polímero."
+      },
+      {
+        "nome": "ARCOOL SR",
+        "descricao": "Fluído solúvel sintético."
+      },
+      {
+        "nome": "ARCOOL SS",
+        "descricao": "Óleo solúvel semi sintético."
+      },
+      {
+        "nome": "ARCOOL VG",
+        "descricao": "Fluído solúvel sintético biodegradável."
+      }
+    ],
+    "ÓLEOS LUBRIFICANTES INDUSTRIAIS": [
+      {
+        "nome": "ARLUB HPL",
+        "descricao": "Óleo hidráulico - DIN 51.524 HPL."
+      },
+      {
+        "nome": "ARLUB CLP",
+        "descricao": "Óleo de engrenagem industrial - DIN 51.502 CLP."
+      },
+      {
+        "nome": "ARLUB CGLP",
+        "descricao": "Óleo de guias e barramento - DIN 51.502 CGLP."
+      },
+      {
+        "nome": "ARLUB HEES",
+        "descricao": "Fluído lubrificante biodegradável - DIN 15.380 HEES."
+      }
+    ],
+    "ÓLEOS DE ESTAMPAGEM": [
+      {
+        "nome": "ARSTAMPºEY",
+        "descricao": "Óleo de estampagem evaporativo."
+      },
+      {
+        "nome": "ARSTAMPºM",
+        "descricao": "Óleo de estampagem severa."
+      },
+      {
+        "nome": "RM",
+        "descricao": "Fluído de estampagem solúvel."
+      },
+      {
+        "nome": "ARSTAMPºVG",
+        "descricao": "Fluído de estampagem biodegradável."
+      }
+    ]
+  },
+  "DIVERSAS APLICAÇÕES": [
+    {
+      "nome": "ARBAC",
+      "descricao": "Bactericida, fungicida, levicida para tratamento de óleo solúvel."
+    },
+    {
+      "nome": "ARFORGE W",
+      "descricao": "Fluído de forjamento - isento de grafite."
+    },
+    {
+      "nome": "ARGLASS?º]",
+      "descricao": "Fluído de corte de vidro."
+    },
+    {
+      "nome": "ARLUB DT",
+      "descricao": "Fluído refletivo (ensaio não destrutivo - detecção de trincas)."
+    },
+    {
+      "nome": "ARPAPER MT",
+      "descricao": "Fluído para corte de papel e fralda."
+    },
+    {
+      "nome": "ARTEXM",
+      "descricao": "Óleo lubrificante para teares - circular lavável."
+    }
+  ],
+  "DESMOLDANTES": [
+    {
+      "nome": "ARDESMOLD?",
+      "descricao": "Desmoldantes para diversas aplicações (refratário, alumínio, fibrocimento, etc)."
+    },
+    {
+      "nome": "ARDESMOLD AR 15",
+      "descricao": "Antirrespingo."
+    }
+  ],
+  "REDUTORES / ENGRENAGENS ABERTAS": [
+    {
+      "nome": "Óleos e Graxas Especiais",
+      "descricao": "Para redutores, engrenagens abertas, sintéticos, atóxicos (NSF - H1), não atacam plásticos ou elastômeros."
+    }
+  ],
+  "COMPRESSORES / SISTEMAS HIDRÁULICOS E PNEUMÁTICOS": [
+    {
+      "nome": "Óleos Sintéticos e Semi Sintéticos",
+      "descricao": "Alta performance, longa duração (3 a 8x mais que óleos minerais), atóxicos (NSF - H1)."
+    }
+  ],
+  "CORRENTES / CABOS DE AÇO": [
+    {
+      "nome": "Lubrificantes Especiais",
+      "descricao": "Alta proteção contra corrosão, temperatura, umidade, agressividade. Lubrificantes secos e atóxicos."
+    }
+  ],
+  "ROLAMENTOS E MANCAIS": [
+    {
+      "nome": "Gama Completa",
+      "descricao": "Para temperaturas extremas, cargas altas, vibrações, meios agressivos. Inclui opções atóxicas."
+    }
+  ],
+  "MOTORES ELÉTRICOS / EXAUSTORES": [
+    {
+      "nome": "Graxas Especiais",
+      "descricao": "Altas rotações, ambientes úmidos e agressivos. Substituem graxas minerais com melhor desempenho."
+    }
+  ],
+  "ACOPLAMENTOS / VÁLVULAS / REGISTROS": [
+    {
+      "nome": "Lubrificantes para Vedações",
+      "descricao": "Resistentes a água, gás e produtos químicos."
+    }
+  ],
+  "INDÚSTRIA DE PLÁSTICOS - INJEÇÃO E EXTRUSÃO": [
+    {
+      "nome": "Lubrificantes e Desmoldantes",
+      "descricao": "Para cabeçotes, moldes, matrizes. Com e sem silicone."
+    }
+  ],
+  "PASTAS DE MONTAGEM": [
+    {
+      "nome": "Pastas Técnicas",
+      "descricao": "Contra tribocorrosão, para altas temperaturas e cargas. Facilitam montagem e desmontagem."
+    }
+  ],
+  "DESENGRIPANTE ECO SPRAY": [
+    {
+      "nome": "Desengripante Eco",
+      "descricao": "Multiuso, industrial, automotivo, doméstico. Biodegradável, sem CFC."
+    }
+  ]
+}

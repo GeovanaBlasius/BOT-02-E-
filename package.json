@@ -1,0 +1,21 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "main": "bot02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently -k -n \"Painel,Bot\" -c \"cyan,green\" \"node painel.js\" \"node bot02.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql2": "^3.14.1",
+    "pg": "^8.16.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
+
