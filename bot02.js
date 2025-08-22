@@ -391,7 +391,7 @@ async function enviarParaChatGPT(mensagem) {
             max_tokens: 500
         }, {
             headers: {
-                'Authorization': `Bearer ${process.env.OPENAI_KEY || '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`,'}`,
+                'Authorization': `Bearer ${process.env.OPENAI_KEY || 'sua chave openAi aqui`,'}`,
                 'Content-Type': 'application/json'
             },
             timeout: 10000
@@ -493,3 +493,4 @@ client.on('message_create', async message => {
 
 client.initialize();
 // Inicialização do bot -->  node bot02.js
+
